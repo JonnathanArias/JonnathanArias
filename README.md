@@ -1,5 +1,12 @@
 ## Hi, I´m Jonnathan Arias Ortiz 😄👋
 ![add_readme_perfil](https://github.com/user-attachments/assets/c243772f-80d7-4179-8b95-d5e2e966f44a)
+
+ I am a web developer in training, I live in Colombia, Bogota, I am passionate about everything that has to do with technology, programming, databases, cloud servers, IX semester student at the university, I am currently learning the programming language .NET MVC, Javascript and PHP open source, I also love databases in this case I use SQL Server Management, MySQL and I am trying to master the backend with HTML everything that has to do with client view, I know I have a lot to learn but here I am next to the battle of daily and constant learning. 
+
+Thanks 
+
+
+
 <!--
 **JonnathanArias/JonnathanArias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
