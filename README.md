@@ -1,11 +1,13 @@
 ## Hi, I´m Jonnathan Arias Ortiz 😄👋
 ![add_readme_perfil](https://github.com/user-attachments/assets/c243772f-80d7-4179-8b95-d5e2e966f44a)
 
- I’m a web developer in training based in Bogotá, Colombia. Passionate about technology, programming, databases, and cloud servers. I’m currently in my ninth semester of university, learning .NET MVC, JavaScript, and open-source PHP.
+I’m a web developer in training based in Bogotá, Colombia, passionate about technology, programming, databases, and cloud infrastructure. Currently in my ninth semester of university, I’m focused on expanding my skills in .NET MVC, JavaScript, and open-source PHP.
 
-I enjoy working with databases like SQL Server Management Studio and MySQL, and I’m focused on mastering backend development while also improving my frontend skills with technologies like HTML. I know there’s still a lot to learn, but I’m fully committed to this journey of constant growth and learning. 
+I enjoy designing and building structured backend systems, working with databases like SQL Server and MySQL, and continuously improving my understanding of frontend technologies like HTML and CSS to create dynamic and responsive user experiences.
 
-Thanks 
+I’m also exploring software architecture, RESTful APIs, DevOps practices, and diving into automation testing with tools like Selenium, as well as automated unit testing with NUnit and XUnit.
+
+I know there’s still a lot to learn, but I embrace the challenge and stay committed to growing every day through practice, curiosity, and constant learning.
 
 :technologist: some technology I use: 
 
