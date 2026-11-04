@@ -1,6 +1,7 @@
 ##  Hi, I'm Jonnathan Arias
+![add_readme_perfil](https://github.com/user-attachments/assets/c243772f-80d7-4179-8b95-d5e2e966f44a)
 
-**Software Engineer | Backend Developer (.NET & Java) | QA Automation**
+**System Engineer | Backend Developer (.NET & Java) | QA Automation**
 
 Systems Engineer based in Bogotá, Colombia, currently pursuing a specialization in Cybersecurity. Passionate about Backend Development, complex system integrations, API security, and test automation.
 
