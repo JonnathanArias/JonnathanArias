@@ -9,22 +9,35 @@ I’m also exploring software architecture, RESTful APIs, DevOps practices, and 
 
 I know there’s still a lot to learn, but I embrace the challenge and stay committed to growing every day through practice, curiosity, and constant learning.
 
-:technologist: some technology I use: 
+**Languages & Frameworks**
 
+![.NET](https://github.com/user-attachments/assets/b22d36da-b080-4763-ab62-08e903c6b5cd)
+![C#](https://github.com/user-attachments/assets/b36073fd-1cd0-4e24-a371-df6522aebbae)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://github.com/user-attachments/assets/464f8fc7-2967-4c83-b110-442f5a752875)
+![PHP](https://github.com/user-attachments/assets/2e809a29-7969-4505-91ab-d089f6b3a97b)
+![HTML](https://github.com/user-attachments/assets/e4b16807-8606-44bc-839a-80d476177328)
 
-![NET](https://github.com/user-attachments/assets/b22d36da-b080-4763-ab62-08e903c6b5cd)
- || ![C#](https://github.com/user-attachments/assets/b36073fd-1cd0-4e24-a371-df6522aebbae) 
- || ![javascript](https://github.com/user-attachments/assets/464f8fc7-2967-4c83-b110-442f5a752875)
- || ![PHP](https://github.com/user-attachments/assets/2e809a29-7969-4505-91ab-d089f6b3a97b)
- || ![SQL](https://github.com/user-attachments/assets/36865c7f-afc1-4db7-9256-7a6979ddbfdd)
- || ![MySql](https://github.com/user-attachments/assets/0791cf64-1f54-46fa-afcd-d2bddfd13037)
- || ![Html](https://github.com/user-attachments/assets/e4b16807-8606-44bc-839a-80d476177328)
- || ![visual-studio](https://github.com/user-attachments/assets/6f8d1e19-2e39-4488-a857-6f01730a5fb5)
- || ![Azure-Devops](https://github.com/user-attachments/assets/94a533b0-2a1f-4b82-ba24-1ce88b8c8ac9)
- || ![image](https://github.com/user-attachments/assets/d08bba56-3d41-44d7-9ff9-0b3d5343b926)
- || ![Docker](https://github.com/user-attachments/assets/90ba0329-cba8-4bec-aa94-5b17f31c7e60)
- || ![Apache-servidor](https://github.com/user-attachments/assets/88dc1485-5e2e-4ee2-9061-78cb0ef54811)
- || ![Powerbi](https://github.com/user-attachments/assets/66855537-ad7e-4f5e-9aee-9069fca13fbc)
+**Databases**
+
+![SQL Server](https://github.com/user-attachments/assets/36865c7f-afc1-4db7-9256-7a6979ddbfdd)
+![MySQL](https://github.com/user-attachments/assets/0791cf64-1f54-46fa-afcd-d2bddfd13037)
+
+**DevOps & Cloud**
+
+![Azure DevOps](https://github.com/user-attachments/assets/94a533b0-2a1f-4b82-ba24-1ce88b8c8ac9)
+![Docker](https://github.com/user-attachments/assets/90ba0329-cba8-4bec-aa94-5b17f31c7e60)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+**Tools & Others**
+
+![Visual Studio](https://github.com/user-attachments/assets/6f8d1e19-2e39-4488-a857-6f01730a5fb5)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Apache](https://github.com/user-attachments/assets/88dc1485-5e2e-4ee2-9061-78cb0ef54811)
+![Power BI](https://github.com/user-attachments/assets/66855537-ad7e-4f5e-9aee-9069fca13fbc)
+![VirtualBox](https://github.com/user-attachments/assets/d08bba56-3d41-44d7-9ff9-0b3d5343b926)
 
 
  :hourglass: Short-term objectives:
@@ -32,7 +45,7 @@ I know there’s still a lot to learn, but I embrace the challenge and stay comm
  
 1. Learn English . 
 2. To graduate in Systems Engineering.
-3. Learn every day about programming language and big data technologies.
+3. Learn every day about programming language and big data technologies.``
 4. Among many more Objectives to be able to execute them
 
  :medal_sports:  Long-term objectives 
