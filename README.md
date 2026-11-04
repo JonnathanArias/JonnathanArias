@@ -1,13 +1,8 @@
-## Hi, I´m Jonnathan Arias Ortiz 😄👋
-![add_readme_perfil](https://github.com/user-attachments/assets/c243772f-80d7-4179-8b95-d5e2e966f44a)
+##  Hi, I'm Jonnathan Arias
 
-I’m a web developer in training based in Bogotá, Colombia, passionate about technology, programming, databases, and cloud infrastructure. Currently in my ninth semester of university, I’m focused on expanding my skills in .NET MVC, JavaScript, and open-source PHP.
+**Software Engineer | Backend Developer (.NET & Java) | QA Automation**
 
-I enjoy designing and building structured backend systems, working with databases like SQL Server and MySQL, and continuously improving my understanding of frontend technologies like HTML and CSS to create dynamic and responsive user experiences.
-
-I’m also exploring software architecture, RESTful APIs, DevOps practices, and diving into automation testing with tools like Selenium, as well as automated unit testing with NUnit and XUnit.
-
-I know there’s still a lot to learn, but I embrace the challenge and stay committed to growing every day through practice, curiosity, and constant learning.
+Systems Engineer based in Bogotá, Colombia, currently pursuing a specialization in Cybersecurity. Passionate about Backend Development, complex system integrations, API security, and test automation.
 
 **Languages & Frameworks**
 
